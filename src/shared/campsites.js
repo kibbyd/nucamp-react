@@ -54,7 +54,7 @@ export const CAMPSITES = [
                 id: 0,
                 rating: 5, 
                 text: "What a magnificent view!",
-                author: "Tinus Lorvaldes",
+                author: "Mr Change Me",
                 date: "2018-10-25T16:30Z"
             },
             {
@@ -98,7 +98,7 @@ export const CAMPSITES = [
                 id: 0,
                 rating: 5, 
                 text: "What a magnificent view!",
-                author: "Tinus Lorvaldes",
+                author: "Bobby Changed",
                 date: "2018-10-25T16:30Z"
             },
             {
@@ -142,7 +142,7 @@ export const CAMPSITES = [
                 id: 0,
                 rating: 5, 
                 text: "What a magnificent view!",
-                author: "Tinus Lorvaldes",
+                author: "John Change",
                 date: "2018-10-25T16:30Z"
             },
             {
