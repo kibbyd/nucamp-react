@@ -1,5 +1,5 @@
 export const CAMPSITES = [
-    {
+       {
         id: 0,
         name: "React Lake Campground",
         image: "/assets/images/react-lake.jpg",
