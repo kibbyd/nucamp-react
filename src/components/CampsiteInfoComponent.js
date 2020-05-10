@@ -95,7 +95,7 @@ function RenderCampsite({campsite}){
                                 <div className="form-group">
                                     <Label htmlFor="rating">Rating</Label>
                                     <Control.select model=".rating" id="rating" name="rating" className="form-control">
-                                        <option>Select....</option>
+                                        <option>Select rating....</option>
                                         <option value="1">1</option>
                                         <option value="2">2</option>
                                         <option value="3">3</option>
